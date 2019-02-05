@@ -1,2 +1,0 @@
-# chatpurge
-Created with CodeSandbox
